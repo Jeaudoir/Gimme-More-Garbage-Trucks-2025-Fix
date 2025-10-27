@@ -52,7 +52,7 @@ Monitors trucks on long routes with poor collection rates; recalls underperforme
 
 ## Configuration
 
-Tons of settings with OCD levels of customization. See [ModConfiguration.cs](ModConfiguration.cs) for the complete list, or access via **Options → Mod Settings** in-game.
+Tons of settings with OCD levels of customization. See [ModConfiguration.cs](GimmeMoreGarbageTrucks2025/ModConfiguration.cs) for the complete list, or access via **Options → Mod Settings** in-game.
 
 ---
 
