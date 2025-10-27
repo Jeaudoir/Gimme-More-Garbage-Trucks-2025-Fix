@@ -150,7 +150,7 @@ MIT License - see [LICENSE](LICENSE)
 ## Support
 
 - **GitHub Issues:** [Report bugs](https://github.com/Jeaudoir/Gimme-More-Garbage-Trucks-2025-Fix/issues)
-- **Steam Workshop:** [Leave a comment](https://steamcommunity.com/sharedfiles/filedetails/?id=YOUR_WORKSHOP_ID)
+- **Steam Workshop:** [Leave a comment](https://steamcommunity.com/sharedfiles/filedetails/?id=3592608347)
 - **Creator:** [Bilbo Fraggins](https://steamcommunity.com/id/xd00d/myworkshopfiles/?appid=255710)
 
 Please include game version, other mods, and save file if reporting issues.
